@@ -1,0 +1,24 @@
+body
+ {
+     background-color:hsl(214, 17%, 92%);
+    }
+
+    h2 { color: rgb(37, 24, 83);
+    }
+    h1 { color: rgb(209, 6, 6);
+    }
+    hr {
+border-style: none;
+ border-top-style: dotted;
+border-color: grey;
+    border-width: 5px;
+  width: 5%;
+    }
+
+ ul { list-style-type: square;
+    color: rgb(118, 108, 155);
+    }
+
+h3 { color: rgb(37, 24, 83);
+    }
+    button { background-color: rgb(191, 194, 22);
